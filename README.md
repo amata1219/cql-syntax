@@ -1,0 +1,1 @@
+CQL Syntax Highlighting for .cql files.
