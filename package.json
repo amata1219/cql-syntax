@@ -22,5 +22,9 @@
       "scopeName": "source.cql",
       "path": "./syntaxes/cql.tmLanguage.json"
     }]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amata1219/cql-syntax.git"
   }
 }
