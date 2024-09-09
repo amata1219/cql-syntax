@@ -3,7 +3,7 @@
   "displayName": "CQL Syntax",
   "description": "CQL Syntax Highlighting for .cql files",
   "version": "0.0.1",
-  "publisher": "@amata1219",
+  "publisher": "amata1219",
   "engines": {
     "vscode": "^1.93.0"
   },
